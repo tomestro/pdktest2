@@ -4,5 +4,8 @@
 #
 # @example
 #   include pdktest
-class pdktest {
+class pdktest (
+  Optional[String] $str_opt,
+  String $str,
+){
 }
