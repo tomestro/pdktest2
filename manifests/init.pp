@@ -5,7 +5,7 @@
 # @example
 #   include pdktest
 class pdktest (
-  Optional[String] $str_opt,
-  String $str,
+  Optional[String] $str_opt  = "xx",
+  String $str                = "str",
 ){
 }
