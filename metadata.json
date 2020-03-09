@@ -2,9 +2,11 @@
   "name": "tomestro-pdktest",
   "version": "0.1.0",
   "author": "tomestro",
-  "summary": "",
+  "summary": "Test PDK usage",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/tomestro/pdktest",
+  "project_page": "https://github.com/tomestro/pdktest",
+  "issues_url": "https://github.com/tomestro/pdktest/issues",
   "dependencies": [
 
   ],

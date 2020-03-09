@@ -46,3 +46,8 @@ branches:
     - /^v\d/
 notifications:
   email: false
+deploy:
+  provider: puppetforge
+  user: "<Your username>"
+  password:
+    secure: "oS24h0tgYLv/YiTYchk6LGUDdXX9v4m8pdRWJ8/YN1V7IaaSKC0QwBnsv2hGoJY35yqpnKSENYC+eULOxL2RsxBNtKJhu+VR9kfACjvqYAwthSQx3G772eE4MaxkYxZqJ1UupFNPliZCyLJ52D7TAKj95kE+aHbd/KxXe7Cy/Yq7hTICMlqcn6M+ao1d8DIpVRvBRaJ0mWKaQ3HyGJ1SolrQeO9nhtgNaY3qbbnMPb0shRiZPGRwtjyOxd3DtlIZ4qgUceFYgeNE6ZbWh/SeQCcrF92Uucfd6C/1Z29pdAvIQ0nMeAzS8xI2UvaCcyQSqYAzXkzdDC3RwF+tw/DNru3vS79ADyXTrzi/Zolur2AN64YeWmWzT8MNzUJxVFPCI+7RSY/MpIiqV3ONOmC/1tZ6dPtwje1Ehb8TrEmdgTBHNoaypVPGXUvcmkz8sgXQMNNiO09AH2TTOCEIeb3DbIDqCSKkJpQhId0+O5gyWBPQpKDKS+Qy4rOejsPdwdvdrOgE+3vS4imp5QDTDVtQR9Tq3yPCtaTr6NnGYpqstSVQwrfuJrJ+X6JKCamLuwZdL8Mzk6gUbD2jUED+2XyB7E1Gfbv457LlYXHVpY2Dy5T4CEnjKD0srafo+Kn1v1qbtg32ndFVXkPKkmhzvu9zn1byW7R8wRjUv6BIQluc7xU="
