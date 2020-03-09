@@ -55,4 +55,5 @@ deploy:
     tags: true
     # all_branches is required to use tags
     all_branches: true
+    condition: "$DEPLOY_TO_FORGE = yes"
 
