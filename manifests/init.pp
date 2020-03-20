@@ -3,8 +3,8 @@
 # A description of what this class does
 #
 # @example
-#   include pdktest
-class pdktest (
+#   include pdktest2
+class pdktest2 (
   Optional[String] $str_opt  = 'xx',
   String $str                = 'str',
 ){
